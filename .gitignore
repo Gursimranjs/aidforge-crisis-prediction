@@ -1,0 +1,39 @@
+# Environment variables (contains Databricks token!)
+.env
+backend/.env
+*.env
+
+# API Keys and Secrets
+**/*token*
+**/*secret*
+**/*key*
+
+# Node modules
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Build files
+frontend/build/
+frontend/dist/
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+/tmp/
+*.tmp
+*.bak
+
+# Backend logs
+/tmp/backend.log
+/tmp/backend.pid

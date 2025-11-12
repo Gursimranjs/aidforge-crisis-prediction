@@ -1,0 +1,21 @@
+country,region,predicted_score_2026,predicted_priority_2026,refugee_applications,poverty_headcount_ratio,crisis_intensity
+afghanistan,South Asia,65.5,CRITICAL,250939,15,28.26
+yemen,Middle East,57.9,URGENT,9220,15,7.07
+somalia,Sub-Saharan Africa,57.7,URGENT,41297,15,7.28
+ukraine,Europe & Central Asia,57.7,URGENT,41706,15,7.32
+myanmar,East Asia & Pacific,56.9,URGENT,20295,15,5.18
+haiti,Latin America,56.7,URGENT,14294,15,4.63
+south sudan,Sub-Saharan Africa,56.3,URGENT,3673,15,3.52
+venezuela,Latin America,56.2,URGENT,0,15,3.32
+iraq,Middle East,55.7,URGENT,194135,15,22.57
+honduras,Latin America,51,URGENT,24974,15,9.13
+pakistan,South Asia,50.9,URGENT,66511,15,9.8
+nigeria,Sub-Saharan Africa,50.6,URGENT,58603,15,9.02
+eritrea,Sub-Saharan Africa,50.5,URGENT,55544,15,8.7
+el salvador,Latin America,50.1,URGENT,43302,15,7.48
+ethiopia,Sub-Saharan Africa,49.9,HIGH,39547,15,7.11
+sudan,Sub-Saharan Africa,49.6,HIGH,30964,15,6.25
+bangladesh,South Asia,49.5,HIGH,27462,15,5.9
+guatemala,Latin America,49.4,HIGH,26657,15,5.82
+mali,Sub-Saharan Africa,48.9,HIGH,11303,15,4.28
+lebanon,Middle East,48.8,HIGH,8473,15,4
